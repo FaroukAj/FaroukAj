@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python for Data Analysis
 - 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me ... Email:pharouqhajayi00@gmail.com
+- LinkedIn : https://www.linkedin.com/in/farouk-ajayi-38830323b/
 
 <!---
 FaroukAj/FaroukAj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
